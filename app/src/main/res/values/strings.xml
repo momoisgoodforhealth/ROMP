@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ROMP</string>
+    <string name="home">Home</string>
+    <string name="explore">explore</string>
+    <string name="settings">settings</string>
+    <string name="my_team">my team</string>
+</resources>
